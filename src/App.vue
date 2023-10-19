@@ -7,6 +7,10 @@ const otherFramework = ref();
 
 <template>
   <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
+    <h2 class="text-base font-semibold leading-7 text-gray-900 pt-8">Profile</h2>
+    <p class="mt-1 text-sm leading-6 text-gray-600">Select your favourite framework.</p>
+
+
     <form>
       <div class="mt-4">
         <label for="framework" class="block text-sm font-medium leading-6 text-gray-900">Framework</label>
